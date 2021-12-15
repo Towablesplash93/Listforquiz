@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Number of Soviets casualties at Stalingrad",
+        "options": ["1.1Million","800,000","400,000"],
+        "correct":"1.1Million"
+    },
+    {
+        "question": "Deadliest battle of the World War 2" ,
+        "options": ["Battle of Stalingrad"," Battle of Kiev","Battle of the Bulge"],
+        "correct":"Battle of Stalingrad"
+    },
+    {
+        "question": "Biggest operation failure of Word War 2",
+        "options": ["Operation Market Garden","Operation Watch on Rhine","Operation Citadel"],
+        "correct":"Operation Market Garden"
+    }
+]
